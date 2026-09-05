@@ -1,4 +1,5 @@
-# 👋 Olá, eu sou o criador da **Antua Adaptive Intelligence**!
+# 👋 Olá, Seja Bem Vindo ao Meu GitHub 
+Meu Nome é Marco Antônio Sou o Criador da **Antua Adaptive Intelligence**!
 
 > *Da Bahia para Maceió 📍 — Mapeando necessidades digitais e transformando desafios em automações, sistemas e inteligência aplicada.*
 
