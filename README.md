@@ -24,3 +24,13 @@ A **Antua** nasce para ser a ponte entre os problemas reais das empresas e a má
 ---
 
 ## 🛠️ Conhecimentos & Tecnologias
+
+### 💻 Desenvolvimento Web & Front-end
+- **Linguagens & Web:** HTML5, CSS3, JavaScript (ES6+)
+- **Bibliotecas & Frameworks:** React.js, Tailwind CSS
+- **Ferramentas de Desenvolvimento:** Claude Code, Git, GitHub, VS Code
+
+### 🤖 Inteligência Artificial & Automação
+- **Automação de Processos:** n8n, Integração de APIs & Webhooks
+- **IA Generativa & Assistentes:** Engenharia de Prompt, Agentes Autônomos de IA, LLMs (Large Language Models)
+- **Inteligência Adaptativa:** Automação de fluxos de trabalho, otimização de rotinas empresariais e conexão de sistemas digitais
